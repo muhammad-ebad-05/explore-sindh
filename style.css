@@ -1,0 +1,52 @@
+h1, h2 {
+    color: #d3dae0;
+    font-family: 'Georgia', serif;
+    text-align: center;
+    margin-top: 20px;
+}
+body {
+    background-color: rgb(32, 109, 86);
+    color: #fff;
+     font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.karachi{
+    background-color: #461313;
+    color: #fff;
+     font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.hyderabad{
+    background-color: #1A0909;
+    color: #E6EDF3;
+     font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.sukkhar{
+    background-color: #330e0e;
+    color: #affa84;
+     
+     font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+a{
+    color: #cbd9f7;
+    
+}
+
