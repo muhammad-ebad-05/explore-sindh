@@ -4,7 +4,7 @@ An informative, multi-page web development project showcasing the rich historica
 
 ---
 🔗 Live Demo & Links
-
+https://muhammad-ebad-05.github.io/explore-sindh/
 
 ## 📌 Project Overview
 
